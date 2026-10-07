@@ -1,0 +1,7 @@
+click_scheduler_tests 12 0.00948933
+input_tracking_tests 8 0.126191
+config_randomization_tests 7 0.0254475
+slot_cps_tests 5 0.0206908
+click_rate_window_tests 4 0.0234751
+left_activation_tests 2 0.0476004
+---

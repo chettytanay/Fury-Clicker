@@ -1,0 +1,10 @@
+^D:\CLIENTMAKE\GROK\B1\MC_CLICKER\BUILD\CMAKEFILES\52D456EE36ECE1A9CFCCB5D31008A031\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/clientmake/grok/b1/mc_clicker -BD:/clientmake/grok/b1/mc_clicker/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/clientmake/grok/b1/mc_clicker/build/mc_clicker.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

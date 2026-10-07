@@ -1,0 +1,23 @@
+mc_clicker — performance fix build
+
+Changes in this tree:
+- Removed global WH_MOUSE_LL hook (main cause of system-wide mouse lag)
+- Removed timeBeginPeriod(1) (global timer-resolution tax)
+- Thread priorities: NORMAL / BELOW_NORMAL instead of HIGHEST
+- Idle sleeps 50–60 ms outside Minecraft (was 5–25 ms)
+- Hotbar polling only while Minecraft focused
+- UI skips Present when unfocused / minimized (Sleep 50)
+- mouse_event → SendInput
+- Detach process handle when leaving Minecraft
+
+Rebuild (same as before):
+  1. Copy this src/ + CMakeLists.txt over your existing mc_clicker/mc_clicker/
+     (keep third_party/imgui untouched)
+  2. From project root:
+       rmdir /s /q build
+       mkdir build && cd build
+       cmake .. -G "Visual Studio 17 2022" -A x64
+       cmake --build . --config Release
+  3. Run Release\mc_clicker.exe
+
+No other dependencies changed.

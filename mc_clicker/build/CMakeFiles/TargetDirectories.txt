@@ -1,0 +1,14 @@
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/mc_clicker.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/Experimental.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/Nightly.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/Continuous.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/click_scheduler_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/input_tracking_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/config_randomization_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/slot_cps_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/click_rate_window_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/left_activation_tests.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/RUN_TESTS.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/ALL_BUILD.dir
+D:/clientmake/grok/b1/mc_clicker/build/CMakeFiles/ZERO_CHECK.dir

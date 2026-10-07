@@ -1,0 +1,99 @@
+Start testing: Sep 24 00:06 India Standard Time
+----------------------------------------------------------
+1/6 Testing: click_scheduler_tests
+1/6 Test: click_scheduler_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/click_scheduler_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"click_scheduler_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+click scheduler tests passed
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"click_scheduler_tests" end time: Sep 24 00:06 India Standard Time
+"click_scheduler_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: input_tracking_tests
+2/6 Test: input_tracking_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/input_tracking_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"input_tracking_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+input tracking lifecycle tests passed
+<end of output>
+Test time =   1.01 sec
+----------------------------------------------------------
+Test Passed.
+"input_tracking_tests" end time: Sep 24 00:06 India Standard Time
+"input_tracking_tests" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/6 Testing: config_randomization_tests
+3/6 Test: config_randomization_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/config_randomization_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"config_randomization_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+randomization config tests passed
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"config_randomization_tests" end time: Sep 24 00:06 India Standard Time
+"config_randomization_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: slot_cps_tests
+4/6 Test: slot_cps_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/slot_cps_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"slot_cps_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+slot CPS tests passed
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"slot_cps_tests" end time: Sep 24 00:06 India Standard Time
+"slot_cps_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: click_rate_window_tests
+5/6 Test: click_rate_window_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/click_rate_window_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"click_rate_window_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+click rate window tests passed
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"click_rate_window_tests" end time: Sep 24 00:06 India Standard Time
+"click_rate_window_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: left_activation_tests
+6/6 Test: left_activation_tests
+Command: "D:/clientmake/grok/b1/mc_clicker/build/Release/left_activation_tests.exe"
+Directory: D:/clientmake/grok/b1/mc_clicker/build
+"left_activation_tests" start time: Sep 24 00:06 India Standard Time
+Output:
+----------------------------------------------------------
+left activation tests passed
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"left_activation_tests" end time: Sep 24 00:06 India Standard Time
+"left_activation_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 24 00:06 India Standard Time

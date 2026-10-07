@@ -1,0 +1,13 @@
+D:\clientmake\grok\b1\mc_clicker\src\main.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\main.obj
+D:\clientmake\grok\b1\mc_clicker\src\clicker.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\clicker.obj
+D:\clientmake\grok\b1\mc_clicker\src\memory.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\memory.obj
+D:\clientmake\grok\b1\mc_clicker\src\input.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\input.obj
+D:\clientmake\grok\b1\mc_clicker\src\config.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\config.obj
+D:\clientmake\grok\b1\mc_clicker\src\ui.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\ui.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\backends\imgui_impl_dx11.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_impl_dx11.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\backends\imgui_impl_win32.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_impl_win32.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\imgui.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\imgui_demo.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_demo.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\imgui_draw.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_draw.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\imgui_tables.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_tables.obj
+D:\clientmake\grok\b1\mc_clicker\third_party\imgui\imgui_widgets.cpp;D:\clientmake\grok\b1\mc_clicker\build\mc_clicker.dir\Release\imgui_widgets.obj

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\clientmake\grok\b1\mc_clicker\tests\slot_cps_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\clientmake\grok\b1\mc_clicker\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81B0AC3D-0EB8-35F8-A47E-31CB1AAF73F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
